@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Sudoku"
   ],
+  "SelectedNode": "\\Sudoku\\ScemeData.cs",
   "PreviewInSolutionExplorer": false
 }
