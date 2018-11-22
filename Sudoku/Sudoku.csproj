@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="generarSudoku.cs" />
+    <Compile Include="grillaSudoku.cs" />
+    <Compile Include="modoDeJuego.cs" />
+    <Compile Include="SolucionadorSudoku.cs" />
+    <Compile Include="Sudoku.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
